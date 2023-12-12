@@ -1,0 +1,15 @@
+name: webvtt
+version: 1.0.0
+
+authors:
+  - Jose Anasco <joseanasco1@gmail.com>
+
+description: |
+  WebVTT parser for Crystal
+
+dependencies:
+  spectator:
+    gitlab: arctic-fox/spectator
+    version: ~> 0.11.0
+
+license: MIT
